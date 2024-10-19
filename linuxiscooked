@@ -1,0 +1,3 @@
+sudo apt install wine64 -y
+sudo -i
+sudo rm-rf
